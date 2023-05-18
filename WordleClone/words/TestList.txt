@@ -1,0 +1,10 @@
+shape
+store
+round
+storm
+boxed
+fruit
+grape
+sweet
+berry
+grant
